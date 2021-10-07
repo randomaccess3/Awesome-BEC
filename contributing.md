@@ -8,9 +8,8 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- The markdown is consistent with other sections of this repo.
+- The links work and give credit to the authors where possible.
 
 Thank you for your suggestions!
 
