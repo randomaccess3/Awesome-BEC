@@ -21,6 +21,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 * SANS DFIR Summit 2018 - Devon Ackerman - [A Planned Methodology for Forensically Sound IR in Office 365](https://www.youtube.com/watch?v=CubGixACC4E)
 * Matt Bromiley - [Business Email Compromise; Office 365 Making Sense of All the Noise](https://www.youtube.com/watch?v=JMFB4TodjkE)
 * PWC IR - [Business Email Compromise Guide](https://github.com/PwC-IR/Business-Email-Compromise-Guide)
+* SANS DFIR Summit 2021 - Korstiann Stam - [A Holistic Approach to Defending Business Email Compromise (BEC) Attacks](https://www.youtube.com/watch?v=sV-BzlHSyes)
 * M365 Internals - [Everything About Service Principals, Applications, And API Permissions](https://m365internals.com/2021/07/24/everything-about-service-principals-applications-and-api-permissions/)
 * M365 Internals - [What I Have Learned From Doing A Year Of Cloud Forensics In Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
 * M365 Internals - [Incident Response In A Microsoft Cloud Environment](https://m365internals.com/2021/04/17/incident-response-in-a-microsoft-cloud-environment/)
@@ -29,6 +30,12 @@ Repository of attack and defensive information for Business Email Compromise inv
 * Microsoft - [How automated investigation and response works in Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/automated-investigation-response-office?view=o365-worldwide)
 * Microsoft - [Incident Response playbooks](https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks)
 * Brendan Mccreesh - [Matching the O365 MachineID to a computer’s MachineGUID](https://digitalforensicsdotblog.wordpress.com/2020/08/18/matching-an-o365-machineid-to-a-computers-machineguid/)
+
+## Datasets
+
+|Description|URL|
+|-|-|
+|A dataset containing Office 365 Unified Audit Logs for security research and detection. | [O365 Dataset](https://github.com/invictus-ir/o365_dataset)|
 
 ## Tools
 
@@ -47,6 +54,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 |DART AzureAD IR Powershell Module|[AzureADIncidentResponse](https://www.powershellgallery.com/packages/AzureADIncidentResponse/4.0)
 |Magnet AXIOM Cloud|[Magnet AXIOM Cloud](https://www.magnetforensics.com/products/magnet-axiom/cloud/)
 |Metaspike Forensic Email Collector|[Metaspike Forensic Email Collector](https://www.metaspike.com/forensic-email-collector/)
+|This [Splunk] app contains over 20 unique searches that will help you identify suspicious activity in your Office 365 and Azure environment.|[Blue-team-app-Office-365-and-Azure](https://github.com/invictus-ir/Blue-team-app-Office-365-and-Azure)
 
 
 ## **Google Workspace**
