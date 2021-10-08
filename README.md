@@ -55,7 +55,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 |Magnet AXIOM Cloud|[Magnet AXIOM Cloud](https://www.magnetforensics.com/products/magnet-axiom/cloud/)
 |Metaspike Forensic Email Collector|[Metaspike Forensic Email Collector](https://www.metaspike.com/forensic-email-collector/)
 |This [Splunk] app contains over 20 unique searches that will help you identify suspicious activity in your Office 365 and Azure environment.|[Blue-team-app-Office-365-and-Azure](https://github.com/invictus-ir/Blue-team-app-Office-365-and-Azure)
-
+|Script to retrieve information via O365 and AzureAD with a valid cred|[o365recon by nyxgeek](https://github.com/nyxgeek/o365recon)
 
 ## **Google Workspace**
 
