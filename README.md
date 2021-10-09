@@ -56,6 +56,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 |Metaspike Forensic Email Collector|[Metaspike Forensic Email Collector](https://www.metaspike.com/forensic-email-collector/)
 |This [Splunk] app contains over 20 unique searches that will help you identify suspicious activity in your Office 365 and Azure environment.|[Blue-team-app-Office-365-and-Azure](https://github.com/invictus-ir/Blue-team-app-Office-365-and-Azure)
 |Script to retrieve information via O365 and AzureAD with a valid cred|[o365recon by nyxgeek](https://github.com/nyxgeek/o365recon)
+|A Powershell module to run threat hunting playbooks on data from Azure and O365 for Cloud Forensics purposes.|[AzureHunter by Darkquasar](https://github.com/darkquasar/AzureHunter)
 
 ## **Google Workspace**
 
