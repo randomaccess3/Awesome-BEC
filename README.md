@@ -1,7 +1,6 @@
 # Awesome-BEC
 Repository of attack and defensive information for Business Email Compromise investigations
 
-
 ## **Office365/AzureAD** 
 
 * [ATT&CK O365](https://attack.mitre.org/matrices/enterprise/cloud/office365/)
@@ -9,27 +8,31 @@ Repository of attack and defensive information for Business Email Compromise inv
 
 ## Attack/Defend Research
 
-* Lina Lau - [Backdoor Office 365 and Active Directory - Golden SAML](https://www.inversecos.com/2021/09/backdooring-office-365-and-active.html)
-* Lina Lau - [Office365 Attacks: Bypassing MFA, Achieving Persistence and More - Part I](https://www.inversecos.com/2021/09/office365-attacks-bypassing-mfa.html)
-* Lina Lau - [Attacks on Azure AD and M365: Pawning the cloud, PTA Skeleton Keys and more - PART II](https://www.inversecos.com/2021/10/attacks-on-azure-ad-and-m365-pawning.html)
-* Mike Felch and Steve Borosh - [Socially Acceptable Methods to Walk in the Front Door](https://www.slideshare.net/MichaelFelch/socially-acceptable-methods-to-walk-in-the-front-door)
-* Kuba Gretzky - [Evilginx2](https://github.com/kgretzky/evilginx2)
-* Mandiant - [Remediation and Hardening Strategies for Microsoft 365 to Defend Against UNC2452](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/wp-m-unc2452-2021-000343-01.pdf)
+|Description | Author | Link|
+|-|-|-|
+|| Lina Lau | [Backdoor Office 365 and Active Directory - Golden SAML](https://www.inversecos.com/2021/09/backdooring-office-365-and-active.html)
+|| Lina Lau | [Office365 Attacks: Bypassing MFA, Achieving Persistence and More - Part I](https://www.inversecos.com/2021/09/office365-attacks-bypassing-mfa.html)
+|| Lina Lau | [Attacks on Azure AD and M365: Pawning the cloud, PTA Skeleton Keys and more - PART II](https://www.inversecos.com/2021/10/attacks-on-azure-ad-and-m365-pawning.html)
+|| Mike Felch and Steve Borosh | [Socially Acceptable Methods to Walk in the Front Door](https://www.slideshare.net/MichaelFelch/socially-acceptable-methods-to-walk-in-the-front-door)
+|| Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)
+|| Mandiant | [Remediation and Hardening Strategies for Microsoft 365 to Defend Against UNC2452](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/wp-m-unc2452-2021-000343-01.pdf)
 
 ## Investigation Research
 
-* SANS DFIR Summit 2018 - Devon Ackerman - [A Planned Methodology for Forensically Sound IR in Office 365](https://www.youtube.com/watch?v=CubGixACC4E)
-* Matt Bromiley - [Business Email Compromise; Office 365 Making Sense of All the Noise](https://www.youtube.com/watch?v=JMFB4TodjkE)
-* PWC IR - [Business Email Compromise Guide](https://github.com/PwC-IR/Business-Email-Compromise-Guide)
-* SANS DFIR Summit 2021 - Korstiann Stam - [A Holistic Approach to Defending Business Email Compromise (BEC) Attacks](https://www.youtube.com/watch?v=sV-BzlHSyes)
-* M365 Internals - [Everything About Service Principals, Applications, And API Permissions](https://m365internals.com/2021/07/24/everything-about-service-principals-applications-and-api-permissions/)
-* M365 Internals - [What I Have Learned From Doing A Year Of Cloud Forensics In Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
-* M365 Internals - [Incident Response In A Microsoft Cloud Environment](https://m365internals.com/2021/04/17/incident-response-in-a-microsoft-cloud-environment/)
-* M365 Internals - [Incident Response Series: Reviewing Data In Azure AD For Investigation](https://m365internals.com/2021/03/16/incident-response-series-reviewing-data-in-azure-ad-for-investigation/)
-* M365 Internals - [Incident Response Series: Collecting And Analyzing Logs In Azure Ad](https://m365internals.com/2021/03/08/incident-response-series-collecting-and-analyzing-logs-in-azure-ad/)
-* Microsoft - [How automated investigation and response works in Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/automated-investigation-response-office?view=o365-worldwide)
-* Microsoft - [Incident Response playbooks](https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks)
-* Brendan Mccreesh - [Matching the O365 MachineID to a computer’s MachineGUID](https://digitalforensicsdotblog.wordpress.com/2020/08/18/matching-an-o365-machineid-to-a-computers-machineguid/)
+|Description | Author | Link|
+|-|-|-|
+|| Devon Ackerman (SANS DFIR Summit 2018) | [A Planned Methodology for Forensically Sound IR in Office 365](https://www.youtube.com/watch?v=CubGixACC4E)
+|| Matt Bromiley | [Business Email Compromise; Office 365 Making Sense of All the Noise](https://www.youtube.com/watch?v=JMFB4TodjkE)
+|| PWC IR | [Business Email Compromise Guide](https://github.com/PwC-IR/Business-Email-Compromise-Guide)
+|| Korstiann Stam (SANS DFIR Summit 2021) | [A Holistic Approach to Defending Business Email Compromise (BEC) Attacks](https://www.youtube.com/watch?v=sV-BzlHSyes)
+|| M365 Internals | [Everything About Service Principals, Applications, And API Permissions](https://m365internals.com/2021/07/24/everything-about-service-principals-applications-and-api-permissions/)
+|| M365 Internals | [What I Have Learned From Doing A Year Of Cloud Forensics In Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
+|| M365 Internals | [Incident Response In A Microsoft Cloud Environment](https://m365internals.com/2021/04/17/incident-response-in-a-microsoft-cloud-environment/)
+|| M365 Internals | [Incident Response Series: Reviewing Data In Azure AD For Investigation](https://m365internals.com/2021/03/16/incident-response-series-reviewing-data-in-azure-ad-for-investigation/)
+|| M365 Internals | [Incident Response Series: Collecting And Analyzing Logs In Azure Ad](https://m365internals.com/2021/03/08/incident-response-series-collecting-and-analyzing-logs-in-azure-ad/)
+|| Microsoft | [How automated investigation and response works in Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/automated-investigation-response-office?view=o365-worldwide)
+|| Microsoft | [Incident Response playbooks](https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks)
+|| Brendan Mccreesh | [Matching the O365 MachineID to a computer’s MachineGUID](https://digitalforensicsdotblog.wordpress.com/2020/08/18/matching-an-o365-machineid-to-a-computers-machineguid/)
 
 ## Datasets
 
@@ -64,9 +67,11 @@ Repository of attack and defensive information for Business Email Compromise inv
 
 ## Investigation Research
 
-* Megan Roddie - [Automating Google Workspace Incident Response](https://www.youtube.com/watch?v=nW9u4IOD_6M)
-* Megan Roddie - [GSuite Digital Forensics and Incident Response](https://www.youtube.com/watch?v=pGn95-L8_sA)
-* Splunk Threat Research Team - [Investigating GSuite Phishing Attacks with Splunk](https://www.splunk.com/en_us/blog/security/investigating-gsuite-phishing-attacks-with-splunk.html)
-* Arman Gungor at Metaspike - [Investigating Message Read Status in Gmail & Google Workspace](https://www.metaspike.com/message-read-status-gmail-google-workspace/)
-* Arman Gungor at Metaspike - [Gmail History Records in Forensic Email Investigations](https://www.metaspike.com/gmail-history-records-forensic-email-investigations/)
-* Arman Gungor at Metaspike - [Google Takeout and Vault in Email Forensics](https://www.metaspike.com/google-takeout-vault-email-forensics/)
+|Description | Author | Link|
+|-|-|-|
+|| Megan Roddie | [Automating Google Workspace Incident Response](https://www.youtube.com/watch?v=nW9u4IOD_6M)
+|| Megan Roddie | [GSuite Digital Forensics and Incident Response](https://www.youtube.com/watch?v=pGn95-L8_sA)
+|| Splunk Threat Research Team | [Investigating GSuite Phishing Attacks with Splunk](https://www.splunk.com/en_us/blog/security/investigating-gsuite-phishing-attacks-with-splunk.html)
+|| Arman Gungor at Metaspike | [Investigating Message Read Status in Gmail & Google Workspace](https://www.metaspike.com/message-read-status-gmail-google-workspace/)
+|| Arman Gungor at Metaspike | [Gmail History Records in Forensic Email Investigations](https://www.metaspike.com/gmail-history-records-forensic-email-investigations/)
+* Arman Gungor at Metaspike | [Google Takeout and Vault in Email Forensics](https://www.metaspike.com/google-takeout-vault-email-forensics/)
