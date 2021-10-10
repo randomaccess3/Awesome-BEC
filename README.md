@@ -14,7 +14,6 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Lina Lau | [Office365 Attacks: Bypassing MFA, Achieving Persistence and More - Part I](https://www.inversecos.com/2021/09/office365-attacks-bypassing-mfa.html)
 || Lina Lau | [Attacks on Azure AD and M365: Pawning the cloud, PTA Skeleton Keys and more - PART II](https://www.inversecos.com/2021/10/attacks-on-azure-ad-and-m365-pawning.html)
 || Mike Felch and Steve Borosh | [Socially Acceptable Methods to Walk in the Front Door](https://www.slideshare.net/MichaelFelch/socially-acceptable-methods-to-walk-in-the-front-door)
-|| Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)
 || Mandiant | [Remediation and Hardening Strategies for Microsoft 365 to Defend Against UNC2452](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/wp-m-unc2452-2021-000343-01.pdf)
 
 ## Investigation Research
@@ -40,7 +39,14 @@ Repository of attack and defensive information for Business Email Compromise inv
 |-|-|
 |A dataset containing Office 365 Unified Audit Logs for security research and detection. | [O365 Dataset](https://github.com/invictus-ir/o365_dataset)|
 
-## Tools
+## Adversary Emulation Tools
+
+|Description|URL|
+|-|-|
+|| Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)
+|| MDSec | [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)
+
+## Investigation Tools
 
 |Description|URL|
 |-|-|
