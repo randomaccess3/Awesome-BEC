@@ -15,6 +15,9 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Lina Lau | [Attacks on Azure AD and M365: Pawning the cloud, PTA Skeleton Keys and more - PART II](https://www.inversecos.com/2021/10/attacks-on-azure-ad-and-m365-pawning.html)
 || Mike Felch and Steve Borosh | [Socially Acceptable Methods to Walk in the Front Door](https://www.slideshare.net/MichaelFelch/socially-acceptable-methods-to-walk-in-the-front-door)
 || Mandiant | [Remediation and Hardening Strategies for Microsoft 365 to Defend Against UNC2452](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/wp-m-unc2452-2021-000343-01.pdf)
+|| Andy Robbins at SpecterOps | [Azure Privilege Escalation via Service Principal Abuse](https://posts.specterops.io/azure-privilege-escalation-via-service-principal-abuse-210ae2be2a5)
+||Emilian Cebuc & Christian Philipov at F-Secure|[Has anyone seen the principal?](https://www.youtube.com/watch?v=WauAoaKyeaw&t=12673s)
+||nyxgeek at TrustedSec |[Creating A Malicious Azure AD Oauth2 Application](https://www.trustedsec.com/blog/creating-a-malicious-azure-ad-oauth2-application/)
 
 ## Investigation Research
 
