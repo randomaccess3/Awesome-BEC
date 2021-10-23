@@ -38,13 +38,13 @@ Repository of attack and defensive information for Business Email Compromise inv
 
 ## Datasets
 
-|Description|URL|
-|-|-|
-|A dataset containing Office 365 Unified Audit Logs for security research and detection. | [O365 Dataset](https://github.com/invictus-ir/o365_dataset)|
+|Description| Author | Link |
+|-|-|-|
+|A dataset containing Office 365 Unified Audit Logs for security research and detection. | Invictus Incident Response | [O365 Dataset](https://github.com/invictus-ir/o365_dataset)|
 
 ## Adversary Emulation Tools
 
-|Description|URL|
+|Description|Author | Link |
 |-|-|
 || Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)|
 || MDSec | [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)|
