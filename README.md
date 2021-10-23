@@ -6,7 +6,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 * [ATT&CK O365](https://attack.mitre.org/matrices/enterprise/cloud/office365/)
 * [ATT&CK Azure](https://attack.mitre.org/matrices/enterprise/cloud/azuread/)
 
-## Attack/Defend Research
+### Attack/Defend Research
 
 |Description | Author | Link|
 |-|-|-|
@@ -19,7 +19,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 ||Emilian Cebuc & Christian Philipov at F-Secure|[Has anyone seen the principal?](https://www.youtube.com/watch?v=WauAoaKyeaw&t=12673s)
 ||nyxgeek at TrustedSec |[Creating A Malicious Azure AD Oauth2 Application](https://www.trustedsec.com/blog/creating-a-malicious-azure-ad-oauth2-application/)
 
-## Investigation Research
+### Investigation Research
 
 |Description | Author | Link|
 |-|-|-|
@@ -36,45 +36,17 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Microsoft | [Incident Response playbooks](https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks)
 || Brendan Mccreesh | [Matching the O365 MachineID to a computer’s MachineGUID](https://digitalforensicsdotblog.wordpress.com/2020/08/18/matching-an-o365-machineid-to-a-computers-machineguid/)
 
-## Datasets
+### Datasets
 
 |Description| Author | Link |
 |-|-|-|
 |A dataset containing Office 365 Unified Audit Logs for security research and detection. | Invictus Incident Response | [O365 Dataset](https://github.com/invictus-ir/o365_dataset)|
 
-## Adversary Emulation Tools
-
-|Description|Author | Link |
-|-|-|-|
-|| Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)|
-|| MDSec | [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)|
-
-## Investigation Tools
-
-|Description|URL|
-|-|-|
-|Automate the security assessment of Microsoft Office 365 environments | [365Inspect by Soteria Security](https://github.com/soteria-security/365Inspect)|A set of functions that allow the DFIR analyst to collect logs relevant for Office 365 Business Email Compromise and Azure investigations | [DFIR-O365RC by ANSSI-FR](https://github.com/ANSSI-FR/DFIR-O365RC/archive/refs/heads/main.zip)|
-| Queries configurations in the Azure AD/O365 tenant which can shed light on hard-to-find permissions and configuration settings in order to assist organizations in securing these environments | [CrowdStrike Reporting Tool for Azure (CRT)](https://github.com/CrowdStrike/CRT)|
-|Aviary is a new dashboard that CISA and partners developed to help visualize and analyze outputs from its Sparrow detection tool released in December 2020|[Aviary/SPARROW by CISA](https://github.com/cisagov/Sparrow)
-|The goal of the Hawk tool is to be a community lead tool and provides security support professionals with the tools they need to quickly and easily gather data from O365 and Azure.| [Hawk by T0pCyber](https://github.com/T0pCyber/hawk)
-|This repository contains a PowerShell module for detecting artifacts that may be indicators of UNC2452 and other threat actor activity.|[Mandiant AzureAD Investigator](https://github.com/fireeye/Mandiant-Azure-AD-Investigator)|
-|This project is to help faciliate testing and low-volume activity data acquisition from the Office 365 Management Activity API.|[O365 InvestigationTooling by Glen Scales](https://github.com/gscales/O365-InvestigationTooling)|
-|MIA makes it possible to extract Sessions, MessageID(s) and find emails belonging to the MessageID(s)|[MIA-MailItemsAccessed by PwC IR](https://github.com/PwC-IR/MIA-MailItemsAccessed-)|
-|This script makes it possible to extract log data out of an Office365 environment.|[Office 365 Extractor by JoeyRentenaar](https://github.com/JoeyRentenaar/Office-365-Extractor)|
-|Invoke-AZExplorer is a set of functions that retrieve vital data from an Azure and 0365 environment used for intrusion analysis.|[Invoke-AZExplorer by Fernando Tomlinson](https://github.com/WiredPulse/Invoke-AZExplorer)|
-|This script will process Microsoft Office365 Protection Center Audit Logs into a useable form to allow efficient fitlering and pivoting off events of interest.|[o365AuditParser by Ian Day](https://github.com/iandday/o365AuditParser)
-|DART AzureAD IR Powershell Module|[AzureADIncidentResponse](https://www.powershellgallery.com/packages/AzureADIncidentResponse/4.0)
-|Magnet AXIOM Cloud|[Magnet AXIOM Cloud](https://www.magnetforensics.com/products/magnet-axiom/cloud/)
-|Metaspike Forensic Email Collector|[Metaspike Forensic Email Collector](https://www.metaspike.com/forensic-email-collector/)
-|This [Splunk] app contains over 20 unique searches that will help you identify suspicious activity in your Office 365 and Azure environment.|[Blue-team-app-Office-365-and-Azure](https://github.com/invictus-ir/Blue-team-app-Office-365-and-Azure)
-|Script to retrieve information via O365 and AzureAD with a valid cred|[o365recon by nyxgeek](https://github.com/nyxgeek/o365recon)
-|A Powershell module to run threat hunting playbooks on data from Azure and O365 for Cloud Forensics purposes.|[AzureHunter by Darkquasar](https://github.com/darkquasar/AzureHunter)
-
 ## **Google Workspace**
 
 [ATT&CK Google Workspace](https://attack.mitre.org/matrices/enterprise/cloud/googleworkspace/)
 
-## Investigation Research
+### Investigation Research
 
 |Description | Author | Link|
 |-|-|-|
@@ -84,3 +56,35 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Arman Gungor at Metaspike | [Investigating Message Read Status in Gmail & Google Workspace](https://www.metaspike.com/message-read-status-gmail-google-workspace/)
 || Arman Gungor at Metaspike | [Gmail History Records in Forensic Email Investigations](https://www.metaspike.com/gmail-history-records-forensic-email-investigations/)
 * Arman Gungor at Metaspike | [Google Takeout and Vault in Email Forensics](https://www.metaspike.com/google-takeout-vault-email-forensics/)
+
+## Tools
+### Adversary Emulation Tools
+
+|Description|Author | Link |
+|-|-|-|
+|| Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)|
+|| MDSec | [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)|
+
+### Investigation Tools
+
+|Description|Author|Link|
+|-|-|-|
+|Automate the security assessment of Microsoft Office 365 environments |Soteria Security|[365Inspect](https://github.com/soteria-security/365Inspect)|A set of functions that allow the DFIR analyst to collect logs relevant for Office 365 Business Email Compromise and Azure investigations | [DFIR-O365RC by ANSSI-FR](https://github.com/ANSSI-FR/DFIR-O365RC/archive/refs/heads/main.zip)|
+| Queries configurations in the Azure AD/O365 tenant which can shed light on hard-to-find permissions and configuration settings in order to assist organizations in securing these environments | CrowdStrike|[CrowdStrike Reporting Tool for Azure (CRT)](https://github.com/CrowdStrike/CRT)|
+|Aviary is a new dashboard that CISA and partners developed to help visualize and analyze outputs from its Sparrow detection tool released in December 2020|CISA|[Aviary/SPARROW](https://github.com/cisagov/Sparrow)
+|The goal of the Hawk tool is to be a community lead tool and provides security support professionals with the tools they need to quickly and easily gather data from O365 and Azure.|T0pCyber|[Hawk](https://github.com/T0pCyber/hawk)
+|This repository contains a PowerShell module for detecting artifacts that may be indicators of UNC2452 and other threat actor activity.|Mandiant|[Mandiant AzureAD Investigator](https://github.com/fireeye/Mandiant-Azure-AD-Investigator)|
+|This project is to help faciliate testing and low-volume activity data acquisition from the Office 365 Management Activity API.|Glen Scales|[O365 InvestigationTooling](https://github.com/gscales/O365-InvestigationTooling)|
+|MIA makes it possible to extract Sessions, MessageID(s) and find emails belonging to the MessageID(s)|PwC IR|[MIA-MailItemsAccessed](https://github.com/PwC-IR/MIA-MailItemsAccessed-)|
+|This script makes it possible to extract log data out of an Office365 environment.|[Office 365 Extractor by JoeyRentenaar](https://github.com/JoeyRentenaar/Office-365-Extractor)|
+|Invoke-AZExplorer is a set of functions that retrieve vital data from an Azure and 0365 environment used for intrusion analysis.|Fernando Tomlinson|[Invoke-AZExplorer](https://github.com/WiredPulse/Invoke-AZExplorer)|
+|This script will process Microsoft Office365 Protection Center Audit Logs into a useable form to allow efficient fitlering and pivoting off events of interest.|Ian Day|[o365AuditParser](https://github.com/iandday/o365AuditParser)
+|DART AzureAD IR Powershell Module|Microsoft DART|[AzureADIncidentResponse](https://www.powershellgallery.com/packages/AzureADIncidentResponse/4.0)
+|Magnet AXIOM Cloud|Magnet Forensics|[Magnet AXIOM Cloud](https://www.magnetforensics.com/products/magnet-axiom/cloud/)
+|Metaspike Forensic Email Collector|Metaspike|[Metaspike Forensic Email Collector](https://www.metaspike.com/forensic-email-collector/)
+|This [Splunk] app contains over 20 unique searches that will help you identify suspicious activity in your Office 365 and Azure environment.|Invictus IR|[Blue-team-app-Office-365-and-Azure](https://github.com/invictus-ir/Blue-team-app-Office-365-and-Azure)
+|Script to retrieve information via O365 and AzureAD with a valid cred|nyxgeek|[o365recon](https://github.com/nyxgeek/o365recon)
+|A Powershell module to run threat hunting playbooks on data from Azure and O365 for Cloud Forensics purposes.|Darkquasar|[AzureHunter](https://github.com/darkquasar/AzureHunter)
+|SOF-ELK® is a “big data analytics” platform focused on the typical needs of computer forensic investigators/analysts and information security operations personnel.|Phil Hagen at SANS|[SOF-ELK](https://github.com/philhagen/sof-elk)
+
+
