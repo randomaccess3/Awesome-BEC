@@ -88,3 +88,8 @@ Repository of attack and defensive information for Business Email Compromise inv
 |SOF-ELK® is a “big data analytics” platform focused on the typical needs of computer forensic investigators/analysts and information security operations personnel.|Phil Hagen at SANS|[SOF-ELK](https://github.com/philhagen/sof-elk)
 
 
+## Training
+
+|Description|Author|Link|
+|-|-|-|
+||David Cowen, Pierre Lidome, Josh Lemon at SANS|[FOR509: Enterprise Cloud Forensics and Incident Response](https://www.sans.org/cyber-security-courses/enterprise-cloud-forensics-incident-response/)
