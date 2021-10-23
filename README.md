@@ -76,7 +76,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 |This repository contains a PowerShell module for detecting artifacts that may be indicators of UNC2452 and other threat actor activity.|Mandiant|[Mandiant AzureAD Investigator](https://github.com/fireeye/Mandiant-Azure-AD-Investigator)|
 |This project is to help faciliate testing and low-volume activity data acquisition from the Office 365 Management Activity API.|Glen Scales|[O365 InvestigationTooling](https://github.com/gscales/O365-InvestigationTooling)|
 |MIA makes it possible to extract Sessions, MessageID(s) and find emails belonging to the MessageID(s)|PwC IR|[MIA-MailItemsAccessed](https://github.com/PwC-IR/MIA-MailItemsAccessed-)|
-|This script makes it possible to extract log data out of an Office365 environment.|[Office 365 Extractor by JoeyRentenaar](https://github.com/JoeyRentenaar/Office-365-Extractor)|
+|This script makes it possible to extract log data out of an Office365 environment.|JoeyRentenaar|[Office 365 Extractor](https://github.com/JoeyRentenaar/Office-365-Extractor)|
 |Invoke-AZExplorer is a set of functions that retrieve vital data from an Azure and 0365 environment used for intrusion analysis.|Fernando Tomlinson|[Invoke-AZExplorer](https://github.com/WiredPulse/Invoke-AZExplorer)|
 |This script will process Microsoft Office365 Protection Center Audit Logs into a useable form to allow efficient fitlering and pivoting off events of interest.|Ian Day|[o365AuditParser](https://github.com/iandday/o365AuditParser)
 |DART AzureAD IR Powershell Module|Microsoft DART|[AzureADIncidentResponse](https://www.powershellgallery.com/packages/AzureADIncidentResponse/4.0)
