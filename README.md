@@ -35,6 +35,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Microsoft | [How automated investigation and response works in Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/automated-investigation-response-office?view=o365-worldwide)
 || Microsoft | [Incident Response playbooks](https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks)
 || Brendan Mccreesh | [Matching the O365 MachineID to a computer’s MachineGUID](https://digitalforensicsdotblog.wordpress.com/2020/08/18/matching-an-o365-machineid-to-a-computers-machineguid/)
+||BushidoToken| [Abused legitimate services](https://github.com/BushidoUK/Abused-Legitimate-Services)
 
 ### Datasets
 
