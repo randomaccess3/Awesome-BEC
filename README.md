@@ -65,9 +65,17 @@ Repository of attack and defensive information for Business Email Compromise inv
 
 |Description|Author | Link |
 |-|-|-|
-|| Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)
 || MDSec | [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)
+
+### Phishing Toolkits
+
+|Description|Author | Link |
+|-|-|-|
+|| Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)
 || Cult of Cornholio |[Solenya](https://github.com/CultCornholio/solenya)
+|| Black Hills Information Security | [CredSniper](https://github.com/ustayready/CredSniper)
+|| Mandiant | [ReelPhish](https://github.com/mandiant/ReelPhish)
+||Piotr Duszynski|[Modiishka](https://github.com/drk1wi/Modlishka)
 
 ### Investigation Tools
 
