@@ -89,6 +89,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 |Script to retrieve information via O365 and AzureAD with a valid cred|nyxgeek|[o365recon](https://github.com/nyxgeek/o365recon)
 |A Powershell module to run threat hunting playbooks on data from Azure and O365 for Cloud Forensics purposes.|Darkquasar|[AzureHunter](https://github.com/darkquasar/AzureHunter)
 |SOF-ELK® is a “big data analytics” platform focused on the typical needs of computer forensic investigators/analysts and information security operations personnel.|Phil Hagen at SANS|[SOF-ELK](https://github.com/philhagen/sof-elk)
+|A collection of scripts for finding threats in Office365|Martin Rothe|[Py365](https://github.com/mrrothe/py365)
 
 
 ## Training
