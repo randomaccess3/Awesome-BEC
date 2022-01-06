@@ -37,6 +37,9 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Brendan Mccreesh | [Matching the O365 MachineID to a computer’s MachineGUID](https://digitalforensicsdotblog.wordpress.com/2020/08/18/matching-an-o365-machineid-to-a-computers-machineguid/)
 ||BushidoToken| [Abused legitimate services](https://github.com/BushidoUK/Abused-Legitimate-Services)
 ||Dave Herrald and Ryan Kovar (SANS CTI Summit 2019) |[How to Use and Create Threat Intelligence in an Office 365 World](https://www.youtube.com/watch?v=bznFYWcUjtc)
+||Mangatas Tondang | [Knocking on Clouds Door: Threat Hunting Powered by Azure AD Reports and Azula](https://www.youtube.com/watch?v=7HIj5I-O_Co)
+||Mathieu Saulnier|[IRP Phishing](https://gitlab.com/syntax-ir/playbooks/-/tree/main/IRP-Phishing)
+||Crypsis|[Securing O365 with PowerShell](https://cdn2.hubspot.net/hubfs/4266002/Securing%20O365%20With%20PowerShell.pdf)
 
 ### Datasets
 
@@ -58,9 +61,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Arman Gungor at Metaspike | [Investigating Message Read Status in Gmail & Google Workspace](https://www.metaspike.com/message-read-status-gmail-google-workspace/)
 || Arman Gungor at Metaspike | [Gmail History Records in Forensic Email Investigations](https://www.metaspike.com/gmail-history-records-forensic-email-investigations/)
 || Arman Gungor at Metaspike | [Google Takeout and Vault in Email Forensics](https://www.metaspike.com/google-takeout-vault-email-forensics/)
-||Mangatas Tondang | [Knocking on Clouds Door: Threat Hunting Powered by Azure AD Reports and Azula](https://www.youtube.com/watch?v=7HIj5I-O_Co)
-||Mathieu Saulnier|[IRP Phishing](https://gitlab.com/syntax-ir/playbooks/-/tree/main/IRP-Phishing)
-||Crypsis|[Securing O365 with PowerShell](https://cdn2.hubspot.net/hubfs/4266002/Securing%20O365%20With%20PowerShell.pdf)
+
 
 ## Tools
 ### Adversary Emulation Tools
