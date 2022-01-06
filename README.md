@@ -60,6 +60,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Arman Gungor at Metaspike | [Google Takeout and Vault in Email Forensics](https://www.metaspike.com/google-takeout-vault-email-forensics/)
 ||Mangatas Tondang | [Knocking on Clouds Door: Threat Hunting Powered by Azure AD Reports and Azula](https://www.youtube.com/watch?v=7HIj5I-O_Co)
 ||Mathieu Saulnier|[IRP Phishing](https://gitlab.com/syntax-ir/playbooks/-/tree/main/IRP-Phishing)
+||Crypsis|[Securing O365 with PowerShell](https://cdn2.hubspot.net/hubfs/4266002/Securing%20O365%20With%20PowerShell.pdf)
 
 ## Tools
 ### Adversary Emulation Tools
