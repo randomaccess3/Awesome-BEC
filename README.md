@@ -36,6 +36,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Microsoft | [Incident Response playbooks](https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks)
 || Brendan Mccreesh | [Matching the O365 MachineID to a computer’s MachineGUID](https://digitalforensicsdotblog.wordpress.com/2020/08/18/matching-an-o365-machineid-to-a-computers-machineguid/)
 ||BushidoToken| [Abused legitimate services](https://github.com/BushidoUK/Abused-Legitimate-Services)
+||Dave Herrald and Ryan Kovar (SANS CTI Summit 2019) |[How to Use and Create Threat Intelligence in an Office 365 World](https://www.youtube.com/watch?v=bznFYWcUjtc)
 
 ### Datasets
 
