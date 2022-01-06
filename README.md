@@ -64,8 +64,9 @@ Repository of attack and defensive information for Business Email Compromise inv
 
 |Description|Author | Link |
 |-|-|-|
-|| Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)|
-|| MDSec | [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)|
+|| Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)
+|| MDSec | [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)
+|| Cult of Cornholio |[Solenya](https://github.com/CultCornholio/solenya)
 
 ### Investigation Tools
 
