@@ -18,8 +18,9 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Andy Robbins at SpecterOps | [Azure Privilege Escalation via Service Principal Abuse](https://posts.specterops.io/azure-privilege-escalation-via-service-principal-abuse-210ae2be2a5)
 ||Emilian Cebuc & Christian Philipov at F-Secure|[Has anyone seen the principal?](https://www.youtube.com/watch?v=WauAoaKyeaw&t=12673s)
 ||nyxgeek at TrustedSec |[Creating A Malicious Azure AD Oauth2 Application](https://www.trustedsec.com/blog/creating-a-malicious-azure-ad-oauth2-application/)
-||Lina Lau|[How to Backdoor Azure Applications and Abuse Service Principals
-](https://www.inversecos.com/2021/10/how-to-backdoor-azure-applications-and.html)
+||Lina Lau|[How to Backdoor Azure Applications and Abuse Service Principals](https://www.inversecos.com/2021/10/how-to-backdoor-azure-applications-and.html)
+||Lina Lau|[How to Detect Azure Active Directory Backdoors: Identity Federation](https://www.inversecos.com/2021/11/how-to-detect-azure-active-directory.html)
+
 
 ### Investigation Research
 
