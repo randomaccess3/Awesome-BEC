@@ -106,7 +106,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 |SOF-ELK® is a “big data analytics” platform focused on the typical needs of computer forensic investigators/analysts and information security operations personnel.|Phil Hagen at SANS|[SOF-ELK](https://github.com/philhagen/sof-elk)
 |A collection of scripts for finding threats in Office365|Martin Rothe|[Py365](https://github.com/mrrothe/py365)
 |Parsing the O365 Unified Audit Log with Python|Koen Van Impe|[O365-python-parse](https://github.com/cudeso/tools/tree/master/O365-python-parse)
-
+|Identifying phishing page toolkits|Brian Kondracki, Babak Amin Azad, Oleksii Starov, and Nick Nikiforakis|[Phoca](https://github.com/catching-transparent-phish/phoca)
 
 ## Training
 
