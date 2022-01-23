@@ -87,7 +87,8 @@ Repository of attack and defensive information for Business Email Compromise inv
 
 |Description|Author|Link|
 |-|-|-|
-|Automate the security assessment of Microsoft Office 365 environments |Soteria Security|[365Inspect](https://github.com/soteria-security/365Inspect)|A set of functions that allow the DFIR analyst to collect logs relevant for Office 365 Business Email Compromise and Azure investigations | [DFIR-O365RC by ANSSI-FR](https://github.com/ANSSI-FR/DFIR-O365RC/archive/refs/heads/main.zip)|
+|Automate the security assessment of Microsoft Office 365 environments |Soteria Security|[365Inspect](https://github.com/soteria-security/365Inspect)|
+|A set of functions that allow the DFIR analyst to collect logs relevant for Office 365 Business Email Compromise and Azure investigations | ANSSI-FR | [DFIR-O365RC](https://github.com/ANSSI-FR/DFIR-O365RC/archive/refs/heads/main.zip)|
 | Queries configurations in the Azure AD/O365 tenant which can shed light on hard-to-find permissions and configuration settings in order to assist organizations in securing these environments | CrowdStrike|[CrowdStrike Reporting Tool for Azure (CRT)](https://github.com/CrowdStrike/CRT)|
 |Aviary is a new dashboard that CISA and partners developed to help visualize and analyze outputs from its Sparrow detection tool released in December 2020|CISA|[Aviary/SPARROW](https://github.com/cisagov/Sparrow)
 |The goal of the Hawk tool is to be a community lead tool and provides security support professionals with the tools they need to quickly and easily gather data from O365 and Azure.|T0pCyber|[Hawk](https://github.com/T0pCyber/hawk)
