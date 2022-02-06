@@ -1,7 +1,8 @@
 # Awesome-BEC
+
 Repository of attack and defensive information for Business Email Compromise investigations
 
-## **Office365/AzureAD** 
+## **Office365/AzureAD**
 
 * [ATT&CK O365](https://attack.mitre.org/matrices/enterprise/cloud/office365/)
 * [ATT&CK Azure](https://attack.mitre.org/matrices/enterprise/cloud/azuread/)
@@ -20,7 +21,6 @@ Repository of attack and defensive information for Business Email Compromise inv
 ||nyxgeek at TrustedSec |[Creating A Malicious Azure AD Oauth2 Application](https://www.trustedsec.com/blog/creating-a-malicious-azure-ad-oauth2-application/)
 ||Lina Lau|[How to Backdoor Azure Applications and Abuse Service Principals](https://www.inversecos.com/2021/10/how-to-backdoor-azure-applications-and.html)
 ||Lina Lau|[How to Detect Azure Active Directory Backdoors: Identity Federation](https://www.inversecos.com/2021/11/how-to-detect-azure-active-directory.html)
-
 
 ### Investigation Research
 
@@ -66,8 +66,8 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Arman Gungor at Metaspike | [Gmail History Records in Forensic Email Investigations](https://www.metaspike.com/gmail-history-records-forensic-email-investigations/)
 || Arman Gungor at Metaspike | [Google Takeout and Vault in Email Forensics](https://www.metaspike.com/google-takeout-vault-email-forensics/)
 
-
 ## Tools
+
 ### Adversary Emulation Tools
 
 |Description|Author | Link |
