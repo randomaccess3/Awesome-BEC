@@ -7,6 +7,8 @@ Repository of attack and defensive information for Business Email Compromise inv
 * [ATT&CK O365](https://attack.mitre.org/matrices/enterprise/cloud/office365/)
 * [ATT&CK Azure](https://attack.mitre.org/matrices/enterprise/cloud/azuread/)
 * [Microsoft Azure Threat Research Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
+* [Microsoft 365 Licensing](https://m365maps.com/)
+* [Microsoft Portals](https://msportals.io/)
 
 ### Attack/Defend Research
 
@@ -22,8 +24,8 @@ Repository of attack and defensive information for Business Email Compromise inv
 ||nyxgeek at TrustedSec |[Creating A Malicious Azure AD Oauth2 Application](https://www.trustedsec.com/blog/creating-a-malicious-azure-ad-oauth2-application/)
 ||Lina Lau|[How to Backdoor Azure Applications and Abuse Service Principals](https://www.inversecos.com/2021/10/how-to-backdoor-azure-applications-and.html)
 ||Lina Lau|[How to Detect Azure Active Directory Backdoors: Identity Federation](https://www.inversecos.com/2021/11/how-to-detect-azure-active-directory.html)
-||Christopher Romano and Vaishnav Murthy at Crowdstrike|[Cloudy with a Chance of Unclear Mailbox Sync: CrowdStrike Services Identifies Logging Inconsistencies in Microsoft 365](https://www.crowdstrike.com/blog/crowdstrike-services-identifies-logging-inconsistencies-in-microsoft-365/)
 ||Doug Bienstock at Mandiant|[PwnAuth](https://github.com/mandiant/PwnAuth)
+||Steve Borosh at Black Hills Information Secucirty|[Spoofing Microsoft 365 Like It’s 1995](https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/)
 
 ### Investigation Research
 
@@ -47,6 +49,9 @@ Repository of attack and defensive information for Business Email Compromise inv
 ||Mathieu Saulnier|[IRP Phishing](https://gitlab.com/syntax-ir/playbooks/-/tree/main/IRP-Phishing)
 ||Crypsis|[Securing O365 with PowerShell](https://cdn2.hubspot.net/hubfs/4266002/Securing%20O365%20With%20PowerShell.pdf)
 ||Aon|[Microsoft 365: Identifying Mailbox Access](https://www.aon.com/cyber-solutions/aon_cyber_labs/microsoft-365-identifying-mailbox-access/)
+||Will Oram|[Responding to sophisticated attacks on Microsoft 365 and Azure AD](https://github.com/WillOram/AzureAD-incident-response)
+||Frankie Li, Ken Ma and Eric Leung at Dragon Advance Tech Consulting|[Microsoft 365 Forensics Playbook](https://dragonadvancetech.com/reports/M365%20Forensics%20Playbook_v3.pdf)
+||Christopher Romano and Vaishnav Murthy at Crowdstrike|[Cloudy with a Chance of Unclear Mailbox Sync: CrowdStrike Services Identifies Logging Inconsistencies in Microsoft 365](https://www.crowdstrike.com/blog/crowdstrike-services-identifies-logging-inconsistencies-in-microsoft-365/)
 
 ### Datasets
 
@@ -68,6 +73,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Arman Gungor at Metaspike | [Investigating Message Read Status in Gmail & Google Workspace](https://www.metaspike.com/message-read-status-gmail-google-workspace/)
 || Arman Gungor at Metaspike | [Gmail History Records in Forensic Email Investigations](https://www.metaspike.com/gmail-history-records-forensic-email-investigations/)
 || Arman Gungor at Metaspike | [Google Takeout and Vault in Email Forensics](https://www.metaspike.com/google-takeout-vault-email-forensics/)
+|| Megan Roddie at SANS | [Prevent, Detect, Respond An Intro to Google Workspace Security and Incident Response](https://www.youtube.com/watch?v=-90S8fMUprc)
 
 ## Tools
 
@@ -112,6 +118,10 @@ Repository of attack and defensive information for Business Email Compromise inv
 |A collection of scripts for finding threats in Office365|Martin Rothe|[Py365](https://github.com/mrrothe/py365)
 |Parsing the O365 Unified Audit Log with Python|Koen Van Impe|[O365-python-parse](https://github.com/cudeso/tools/tree/master/O365-python-parse)
 |Identifying phishing page toolkits|Brian Kondracki, Babak Amin Azad, Oleksii Starov, and Nick Nikiforakis|[Phoca](https://github.com/catching-transparent-phish/phoca)
+|An Open Source PowerShell O365 Business Email Compromise Investigation Tool|intrepidtechie|[KITT-O365-Tool](https://github.com/intrepidtechie/KITT-O365-Tool)
+|Tooling for assessing an Azure AD tenant state and configuration|Microsoft|[Microsoft Azure AD Assessment](https://github.com/AzureAD/AzureADAssessment)
+|This suite of scripts contains two different scripts that can be used to acquire the Microsoft 365 Unified Audit Log|Invictus IR|[Microsoft 365 Extractor Suite](https://github.com/invictus-ir/Microsoft-365-Extractor-Suite)
+|ROADtools is a framework to interact with Azure AD|Dirk-jan|[ROADtools](https://github.com/dirkjanm/ROADtools)
 
 ## Training
 
