@@ -23,6 +23,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 ||Lina Lau|[How to Backdoor Azure Applications and Abuse Service Principals](https://www.inversecos.com/2021/10/how-to-backdoor-azure-applications-and.html)
 ||Lina Lau|[How to Detect Azure Active Directory Backdoors: Identity Federation](https://www.inversecos.com/2021/11/how-to-detect-azure-active-directory.html)
 ||Christopher Romano and Vaishnav Murthy at Crowdstrike|[Cloudy with a Chance of Unclear Mailbox Sync: CrowdStrike Services Identifies Logging Inconsistencies in Microsoft 365](https://www.crowdstrike.com/blog/crowdstrike-services-identifies-logging-inconsistencies-in-microsoft-365/)
+||Doug Bienstock at Mandiant|[PwnAuth](https://github.com/mandiant/PwnAuth)
 
 ### Investigation Research
 
