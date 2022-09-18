@@ -75,6 +75,12 @@ Repository of attack and defensive information for Business Email Compromise inv
 || Arman Gungor at Metaspike | [Google Takeout and Vault in Email Forensics](https://www.metaspike.com/google-takeout-vault-email-forensics/)
 || Megan Roddie at SANS | [Prevent, Detect, Respond An Intro to Google Workspace Security and Incident Response](https://www.youtube.com/watch?v=-90S8fMUprc)
 
+### Datasets
+
+|Description| Author | Link |
+|-|-|-|
+|A dataset containing Google Workspace Logs for security research and detection. | Invictus Incident Response | [GWS Dataset]([https://github.com/invictus-ir/o365_dataset](https://github.com/invictus-ir/gws_dataset))|
+
 ## Tools
 
 ### Adversary Emulation Tools
