@@ -79,7 +79,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 
 |Description| Author | Link |
 |-|-|-|
-|A dataset containing Google Workspace Logs for security research and detection. | Invictus Incident Response | [GWS Dataset](https://github.com/invictus-ir/o365_dataset](https://github.com/invictus-ir/gws_dataset)|
+|A dataset containing Google Workspace Logs for security research and detection. | Invictus Incident Response | [GWS Dataset](https://github.com/invictus-ir/o365_dataset)|
 
 ## Tools
 
