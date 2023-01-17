@@ -52,6 +52,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 ||Will Oram|[Responding to sophisticated attacks on Microsoft 365 and Azure AD](https://github.com/WillOram/AzureAD-incident-response)
 ||Frankie Li, Ken Ma and Eric Leung at Dragon Advance Tech Consulting|[Microsoft 365 Forensics Playbook](https://dragonadvancetech.com/reports/M365%20Forensics%20Playbook_v3.pdf)
 ||Christopher Romano and Vaishnav Murthy at Crowdstrike|[Cloudy with a Chance of Unclear Mailbox Sync: CrowdStrike Services Identifies Logging Inconsistencies in Microsoft 365](https://www.crowdstrike.com/blog/crowdstrike-services-identifies-logging-inconsistencies-in-microsoft-365/)
+||Megan Roddie at SANS[Enterprise Cloud Forensics & Incident Response Poster](https://www.sans.org/posters/enterprise-cloud-forensics-incident-response-poster/)
 
 ### Datasets
 
