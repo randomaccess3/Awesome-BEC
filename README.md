@@ -52,13 +52,15 @@ Repository of attack and defensive information for Business Email Compromise inv
 ||Will Oram|[Responding to sophisticated attacks on Microsoft 365 and Azure AD](https://github.com/WillOram/AzureAD-incident-response)
 ||Frankie Li, Ken Ma and Eric Leung at Dragon Advance Tech Consulting|[Microsoft 365 Forensics Playbook](https://dragonadvancetech.com/reports/M365%20Forensics%20Playbook_v3.pdf)
 ||Christopher Romano and Vaishnav Murthy at Crowdstrike|[Cloudy with a Chance of Unclear Mailbox Sync: CrowdStrike Services Identifies Logging Inconsistencies in Microsoft 365](https://www.crowdstrike.com/blog/crowdstrike-services-identifies-logging-inconsistencies-in-microsoft-365/)
-||Megan Roddie at SANS[Enterprise Cloud Forensics & Incident Response Poster](https://www.sans.org/posters/enterprise-cloud-forensics-incident-response-poster/)
+||Megan Roddie at SANS|[Enterprise Cloud Forensics & Incident Response Poster](https://www.sans.org/posters/enterprise-cloud-forensics-incident-response-poster/)
+||Thirumalai Natarajan Muthiah & Anurag Khanna (SANS DFIR Summit 2022)|[Threat Hunting in Microsoft 365 Environment](https://www.youtube.com/watch?v=2A0faMIEp00)
+||Josh Lemon & Megan Roddie (SANS DFIR Summit 2022)|[DFIR Evidence Collection and Preservation for the Cloud](https://www.youtube.com/watch?v=1TyjsnqgC5o)
 
 ### Datasets
 
 |Description| Author | Link |
 |-|-|-|
-|A dataset containing Office 365 Unified Audit Logs for security research and detection. | Invictus Incident Response | [O365 Dataset](https://github.com/invictus-ir/o365_dataset)|
+|A dataset containing Office 365 Unified Audit Logs for security research and detection. | Invictus IR | [O365 Dataset](https://github.com/invictus-ir/o365_dataset)|
 
 ## **Google Workspace**
 
@@ -68,19 +70,21 @@ Repository of attack and defensive information for Business Email Compromise inv
 
 |Description | Author | Link|
 |-|-|-|
-|| Megan Roddie | [Automating Google Workspace Incident Response](https://www.youtube.com/watch?v=nW9u4IOD_6M)
-|| Megan Roddie | [GSuite Digital Forensics and Incident Response](https://www.youtube.com/watch?v=pGn95-L8_sA)
+|| Megan Roddie (SANS DFIR Summit 2021) | [Automating Google Workspace Incident Response](https://www.youtube.com/watch?v=nW9u4IOD_6M)
+|| Megan Roddie (BSides SATX) | [GSuite Digital Forensics and Incident Response](https://www.youtube.com/watch?v=pGn95-L8_sA)
 || Splunk Threat Research Team | [Investigating GSuite Phishing Attacks with Splunk](https://www.splunk.com/en_us/blog/security/investigating-gsuite-phishing-attacks-with-splunk.html)
 || Arman Gungor at Metaspike | [Investigating Message Read Status in Gmail & Google Workspace](https://www.metaspike.com/message-read-status-gmail-google-workspace/)
 || Arman Gungor at Metaspike | [Gmail History Records in Forensic Email Investigations](https://www.metaspike.com/gmail-history-records-forensic-email-investigations/)
 || Arman Gungor at Metaspike | [Google Takeout and Vault in Email Forensics](https://www.metaspike.com/google-takeout-vault-email-forensics/)
 || Megan Roddie at SANS | [Prevent, Detect, Respond An Intro to Google Workspace Security and Incident Response](https://www.youtube.com/watch?v=-90S8fMUprc)
+||Korstiaan Stam (SANS DFIR Summit 2022)|[Detecting Malicious Actors in Google Workspace](https://www.youtube.com/watch?v=HzuVhbpO_go)
+||Invictus IR|[Automated Forensic analysis of Google Workspace](https://invictus-ir.medium.com/automated-forensic-analysis-of-google-workspace-859ed50c5c92)
 
 ### Datasets
 
 |Description| Author | Link |
 |-|-|-|
-|A dataset containing Google Workspace Logs for security research and detection. | Invictus Incident Response | [GWS Dataset](https://github.com/invictus-ir/o365_dataset)|
+|A dataset containing Google Workspace Logs for security research and detection. | Invictus Incident Response | [GWS Dataset](https://github.com/invictus-ir/gws_dataset)|
 
 ## Tools
 
@@ -129,6 +133,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 |Tooling for assessing an Azure AD tenant state and configuration|Microsoft|[Microsoft Azure AD Assessment](https://github.com/AzureAD/AzureADAssessment)
 |This suite of scripts contains two different scripts that can be used to acquire the Microsoft 365 Unified Audit Log|Invictus IR|[Microsoft 365 Extractor Suite](https://github.com/invictus-ir/Microsoft-365-Extractor-Suite)
 |ROADtools is a framework to interact with Azure AD|Dirk-jan|[ROADtools](https://github.com/dirkjanm/ROADtools)
+|Automated Audit Log Forensic Analysis for Google Workspace|Invictus IR|[ALFA](https://github.com/invictus-ir/ALFA)
 
 ## Training
 
