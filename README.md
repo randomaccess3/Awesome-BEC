@@ -13,20 +13,21 @@ Repository of attack and defensive information for Business Email Compromise inv
 
 ### Attack/Defend Research
 
-|Description | Author | Link|
-|-|-|-|
-|| Lina Lau | [Backdoor Office 365 and Active Directory - Golden SAML](https://www.inversecos.com/2021/09/backdooring-office-365-and-active.html)
-|| Lina Lau | [Office365 Attacks: Bypassing MFA, Achieving Persistence and More - Part I](https://www.inversecos.com/2021/09/office365-attacks-bypassing-mfa.html)
-|| Lina Lau | [Attacks on Azure AD and M365: Pawning the cloud, PTA Skeleton Keys and more - PART II](https://www.inversecos.com/2021/10/attacks-on-azure-ad-and-m365-pawning.html)
-|| Mike Felch and Steve Borosh | [Socially Acceptable Methods to Walk in the Front Door](https://www.slideshare.net/MichaelFelch/socially-acceptable-methods-to-walk-in-the-front-door)
-|| Mandiant | [Remediation and Hardening Strategies for Microsoft 365 to Defend Against UNC2452](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/wp-m-unc2452-2021-000343-01.pdf)
-|| Andy Robbins at SpecterOps | [Azure Privilege Escalation via Service Principal Abuse](https://posts.specterops.io/azure-privilege-escalation-via-service-principal-abuse-210ae2be2a5)
-||Emilian Cebuc & Christian Philipov at F-Secure|[Has anyone seen the principal?](https://www.youtube.com/watch?v=WauAoaKyeaw&t=12673s)
-||nyxgeek at TrustedSec |[Creating A Malicious Azure AD Oauth2 Application](https://www.trustedsec.com/blog/creating-a-malicious-azure-ad-oauth2-application/)
-||Lina Lau|[How to Backdoor Azure Applications and Abuse Service Principals](https://www.inversecos.com/2021/10/how-to-backdoor-azure-applications-and.html)
-||Lina Lau|[How to Detect Azure Active Directory Backdoors: Identity Federation](https://www.inversecos.com/2021/11/how-to-detect-azure-active-directory.html)
-||Doug Bienstock at Mandiant|[PwnAuth](https://github.com/mandiant/PwnAuth)
-||Steve Borosh at Black Hills Information Secucirty|[Spoofing Microsoft 365 Like It’s 1995](https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/)
+Author | Link|
+|-|-|
+Lina Lau | [Backdoor Office 365 and Active Directory - Golden SAML](https://www.inversecos.com/2021/09/backdooring-office-365-and-active.html)
+Lina Lau | [Office365 Attacks: Bypassing MFA, Achieving Persistence and More - Part I](https://www.inversecos.com/2021/09/office365-attacks-bypassing-mfa.html)
+Lina Lau | [Attacks on Azure AD and M365: Pawning the cloud, PTA Skeleton Keys and more - PART II](https://www.inversecos.com/2021/10/attacks-on-azure-ad-and-m365-pawning.html)
+Mike Felch and Steve Borosh | [Socially Acceptable Methods to Walk in the Front Door](https://www.slideshare.net/MichaelFelch/socially-acceptable-methods-to-walk-in-the-front-door)
+Mandiant | [Remediation and Hardening Strategies for Microsoft 365 to Defend Against UNC2452](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/wp-m-unc2452-2021-000343-01.pdf)
+Andy Robbins at SpecterOps | [Azure Privilege Escalation via Service Principal Abuse](https://posts.specterops.io/azure-privilege-escalation-via-service-principal-abuse-210ae2be2a5)
+Emilian Cebuc & Christian Philipov at F-Secure|[Has anyone seen the principal?](https://www.youtube.com/watch?v=WauAoaKyeaw&t=12673s)
+nyxgeek at TrustedSec |[Creating A Malicious Azure AD Oauth2 Application](https://www.trustedsec.com/blog/creating-a-malicious-azure-ad-oauth2-application/)
+Lina Lau|[How to Backdoor Azure Applications and Abuse Service Principals](https://www.inversecos.com/2021/10/how-to-backdoor-azure-applications-and.html)
+Lina Lau|[How to Detect Azure Active Directory Backdoors: Identity Federation](https://www.inversecos.com/2021/11/how-to-detect-azure-active-directory.html)
+Doug Bienstock at Mandiant|[PwnAuth](https://github.com/mandiant/PwnAuth)
+Steve Borosh at Black Hills Information Secucirty|[Spoofing Microsoft 365 Like It’s 1995](https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/)
+Avertium|[MITM Attacks - Evilproxy and Evilginx](https://www.avertium.com/resources/threat-reports/mitm-attacks-evilproxy-and-evilginx)
 
 ### Investigation Research
 
@@ -57,6 +58,15 @@ Megan Roddie at SANS|[Enterprise Cloud Forensics & Incident Response Poster](htt
 Thirumalai Natarajan Muthiah & Anurag Khanna (SANS DFIR Summit 2022)|[Threat Hunting in Microsoft 365 Environment](https://www.youtube.com/watch?v=2A0faMIEp00)
 Josh Lemon & Megan Roddie (SANS DFIR Summit 2022)|[DFIR Evidence Collection and Preservation for the Cloud](https://www.youtube.com/watch?v=1TyjsnqgC5o)
 Microsoft|[Verify first-party Microsoft applications in sign-in reports](https://learn.microsoft.com/en-us/troubleshoot/azure/active-directory/verify-first-party-apps-sign-in)
+Douglas Bienstock at Mandiant|[You Can’t Audit Me: APT29 Continues Targeting Microsoft 365](https://www.mandiant.com/resources/blog/apt29-continues-targeting-microsoft)
+Lina Lau|[How to Detect OAuth Access Token Theft in Azure](https://www.inversecos.com/2022/08/how-to-detect-oauth-access-token-theft.html)
+Michel De Crevoisier at Red Canary|[Forward thinking: How adversaries abuse Office 365 email rules](https://redcanary.com/blog/o365-email-rules-mindmap/)
+Emily Parrish at Microsoft|[Forensic artifacts in Office 365 and where to find them](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/forensic-artifacts-in-office-365-and-where-to-find-them/ba-p/3634865)
+Justin Schoenfeld and Zach Diehl at Red Canary|[Cloud coverage: Detecting an email payroll diversion attack](https://redcanary.com/blog/email-payroll-diversion-attack/)
+CrowdStrike|[Early Bird Catches the Wormhole: Observations from the StellarParticle Campaign](https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/)
+Aon|[SCL -1: The Dangerous Side Of Safe Senders](https://www.aon.com/cyber-solutions/aon_cyber_labs/scl-1-the-dangerous-side-of-safe-senders/)
+Jon Hencinski|[Seven ways to spot a business email compromise in Office 365](https://expel.com/blog/seven-ways-to-spot-business-email-compromise-office-365/)
+Emily Parrish at Microsoft|[Good UAL Hunting](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/good-ual-hunting/ba-p/3718421)
 
 
 ### Datasets
@@ -99,13 +109,13 @@ Microsoft|[Verify first-party Microsoft applications in sign-in reports](https:/
 
 ### Phishing Toolkits
 
-|Description|Author | Link |
-|-|-|-|
-|| Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)
-|| Cult of Cornholio |[Solenya](https://github.com/CultCornholio/solenya)
-|| Black Hills Information Security | [CredSniper](https://github.com/ustayready/CredSniper)
-|| Mandiant | [ReelPhish](https://github.com/mandiant/ReelPhish)
-||Piotr Duszynski|[Modiishka](https://github.com/drk1wi/Modlishka)
+|Author | Link |
+|-|-|
+Kuba Gretzky | [Evilginx2](https://github.com/kgretzky/evilginx2)
+Cult of Cornholio |[Solenya](https://github.com/CultCornholio/solenya)
+Black Hills Information Security | [CredSniper](https://github.com/ustayready/CredSniper)
+Mandiant | [ReelPhish](https://github.com/mandiant/ReelPhish)
+Piotr Duszynski|[Modiishka](https://github.com/drk1wi/Modlishka)
 
 ### Investigation Tools
 
@@ -138,8 +148,14 @@ Microsoft|[Verify first-party Microsoft applications in sign-in reports](https:/
 |ROADtools is a framework to interact with Azure AD|Dirk-jan|[ROADtools](https://github.com/dirkjanm/ROADtools)
 |Automated Audit Log Forensic Analysis for Google Workspace|Invictus IR|[ALFA](https://github.com/invictus-ir/ALFA)
 
+### Assessment Tools
+
+|Author|Link|
+|-|-|
+CISA|[ScubaGear M365 Secure Configuration Baseline Assessment Tool](https://github.com/cisagov/ScubaGear)
+
 ## Training
 
-|Description|Author|Link|
-|-|-|-|
-||David Cowen, Pierre Lidome, Josh Lemon at SANS|[FOR509: Enterprise Cloud Forensics and Incident Response](https://www.sans.org/cyber-security-courses/enterprise-cloud-forensics-incident-response/)
+|Author/s|Link|
+|-|-|
+|David Cowen, Pierre Lidome, Josh Lemon and Megan Roddie at SANS|[FOR509: Enterprise Cloud Forensics and Incident Response](https://www.sans.org/cyber-security-courses/enterprise-cloud-forensics-incident-response/)
