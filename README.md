@@ -9,6 +9,7 @@ Repository of attack and defensive information for Business Email Compromise inv
 * [Microsoft Azure Threat Research Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
 * [Microsoft 365 Licensing](https://m365maps.com/)
 * [Microsoft Portals](https://msportals.io/)
+* [Azure App IDs](https://github.com/Beercow/Azure-App-IDs)
 
 ### Attack/Defend Research
 
@@ -29,32 +30,34 @@ Repository of attack and defensive information for Business Email Compromise inv
 
 ### Investigation Research
 
-|Description | Author | Link|
-|-|-|-|
-|| Devon Ackerman (SANS DFIR Summit 2018) | [A Planned Methodology for Forensically Sound IR in Office 365](https://www.youtube.com/watch?v=CubGixACC4E)
-|| Matt Bromiley | [Business Email Compromise; Office 365 Making Sense of All the Noise](https://www.youtube.com/watch?v=JMFB4TodjkE)
-|| PWC IR | [Business Email Compromise Guide](https://github.com/PwC-IR/Business-Email-Compromise-Guide)
-|| Korstiann Stam (SANS DFIR Summit 2021) | [A Holistic Approach to Defending Business Email Compromise (BEC) Attacks](https://www.youtube.com/watch?v=sV-BzlHSyes)
-|| M365 Internals | [Everything About Service Principals, Applications, And API Permissions](https://m365internals.com/2021/07/24/everything-about-service-principals-applications-and-api-permissions/)
-|| M365 Internals | [What I Have Learned From Doing A Year Of Cloud Forensics In Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
-|| M365 Internals | [Incident Response In A Microsoft Cloud Environment](https://m365internals.com/2021/04/17/incident-response-in-a-microsoft-cloud-environment/)
-|| M365 Internals | [Incident Response Series: Reviewing Data In Azure AD For Investigation](https://m365internals.com/2021/03/16/incident-response-series-reviewing-data-in-azure-ad-for-investigation/)
-|| M365 Internals | [Incident Response Series: Collecting And Analyzing Logs In Azure Ad](https://m365internals.com/2021/03/08/incident-response-series-collecting-and-analyzing-logs-in-azure-ad/)
-|| Microsoft | [How automated investigation and response works in Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/automated-investigation-response-office?view=o365-worldwide)
-|| Microsoft | [Incident Response playbooks](https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks)
-|| Brendan Mccreesh | [Matching the O365 MachineID to a computer’s MachineGUID](https://digitalforensicsdotblog.wordpress.com/2020/08/18/matching-an-o365-machineid-to-a-computers-machineguid/)
-||BushidoToken| [Abused legitimate services](https://github.com/BushidoUK/Abused-Legitimate-Services)
-||Dave Herrald and Ryan Kovar (SANS CTI Summit 2019) |[How to Use and Create Threat Intelligence in an Office 365 World](https://www.youtube.com/watch?v=bznFYWcUjtc)
-||Mangatas Tondang | [Knocking on Clouds Door: Threat Hunting Powered by Azure AD Reports and Azula](https://www.youtube.com/watch?v=7HIj5I-O_Co)
-||Mathieu Saulnier|[IRP Phishing](https://gitlab.com/syntax-ir/playbooks/-/tree/main/IRP-Phishing)
-||Crypsis|[Securing O365 with PowerShell](https://cdn2.hubspot.net/hubfs/4266002/Securing%20O365%20With%20PowerShell.pdf)
-||Aon|[Microsoft 365: Identifying Mailbox Access](https://www.aon.com/cyber-solutions/aon_cyber_labs/microsoft-365-identifying-mailbox-access/)
-||Will Oram|[Responding to sophisticated attacks on Microsoft 365 and Azure AD](https://github.com/WillOram/AzureAD-incident-response)
-||Frankie Li, Ken Ma and Eric Leung at Dragon Advance Tech Consulting|[Microsoft 365 Forensics Playbook](https://dragonadvancetech.com/reports/M365%20Forensics%20Playbook_v3.pdf)
-||Christopher Romano and Vaishnav Murthy at Crowdstrike|[Cloudy with a Chance of Unclear Mailbox Sync: CrowdStrike Services Identifies Logging Inconsistencies in Microsoft 365](https://www.crowdstrike.com/blog/crowdstrike-services-identifies-logging-inconsistencies-in-microsoft-365/)
-||Megan Roddie at SANS|[Enterprise Cloud Forensics & Incident Response Poster](https://www.sans.org/posters/enterprise-cloud-forensics-incident-response-poster/)
-||Thirumalai Natarajan Muthiah & Anurag Khanna (SANS DFIR Summit 2022)|[Threat Hunting in Microsoft 365 Environment](https://www.youtube.com/watch?v=2A0faMIEp00)
-||Josh Lemon & Megan Roddie (SANS DFIR Summit 2022)|[DFIR Evidence Collection and Preservation for the Cloud](https://www.youtube.com/watch?v=1TyjsnqgC5o)
+Author | Link|
+|-|-|
+Devon Ackerman (SANS DFIR Summit 2018) | [A Planned Methodology for Forensically Sound IR in Office 365](https://www.youtube.com/watch?v=CubGixACC4E)
+Matt Bromiley | [Business Email Compromise; Office 365 Making Sense of All the Noise](https://www.youtube.com/watch?v=JMFB4TodjkE)
+PWC IR | [Business Email Compromise Guide](https://github.com/PwC-IR/Business-Email-Compromise-Guide)
+Korstiann Stam (SANS DFIR Summit 2021) | [A Holistic Approach to Defending Business Email Compromise (BEC) Attacks](https://www.youtube.com/watch?v=sV-BzlHSyes)
+M365 Internals | [Everything About Service Principals, Applications, And API Permissions](https://m365internals.com/2021/07/24/everything-about-service-principals-applications-and-api-permissions/)
+M365 Internals | [What I Have Learned From Doing A Year Of Cloud Forensics In Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
+M365 Internals | [Incident Response In A Microsoft Cloud Environment](https://m365internals.com/2021/04/17/incident-response-in-a-microsoft-cloud-environment/)
+M365 Internals | [Incident Response Series: Reviewing Data In Azure AD For Investigation](https://m365internals.com/2021/03/16/incident-response-series-reviewing-data-in-azure-ad-for-investigation/)
+M365 Internals | [Incident Response Series: Collecting And Analyzing Logs In Azure Ad](https://m365internals.com/2021/03/08/incident-response-series-collecting-and-analyzing-logs-in-azure-ad/)
+Microsoft | [How automated investigation and response works in Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/automated-investigation-response-office?view=o365-worldwide)
+Microsoft | [Incident Response playbooks](https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks)
+Brendan Mccreesh | [Matching the O365 MachineID to a computer’s MachineGUID](https://digitalforensicsdotblog.wordpress.com/2020/08/18/matching-an-o365-machineid-to-a-computers-machineguid/)
+BushidoToken| [Abused legitimate services](https://github.com/BushidoUK/Abused-Legitimate-Services)
+Dave Herrald and Ryan Kovar (SANS CTI Summit 2019) |[How to Use and Create Threat Intelligence in an Office 365 World](https://www.youtube.com/watch?v=bznFYWcUjtc)
+Mangatas Tondang | [Knocking on Clouds Door: Threat Hunting Powered by Azure AD Reports and Azula](https://www.youtube.com/watch?v=7HIj5I-O_Co)
+Mathieu Saulnier|[IRP Phishing](https://gitlab.com/syntax-ir/playbooks/-/tree/main/IRP-Phishing)
+Crypsis|[Securing O365 with PowerShell](https://cdn2.hubspot.net/hubfs/4266002/Securing%20O365%20With%20PowerShell.pdf)
+Aon|[Microsoft 365: Identifying Mailbox Access](https://www.aon.com/cyber-solutions/aon_cyber_labs/microsoft-365-identifying-mailbox-access/)
+Will Oram|[Responding to sophisticated attacks on Microsoft 365 and Azure AD](https://github.com/WillOram/AzureAD-incident-response)
+Frankie Li, Ken Ma and Eric Leung at Dragon Advance Tech Consulting|[Microsoft 365 Forensics Playbook](https://dragonadvancetech.com/reports/M365%20Forensics%20Playbook_v3.pdf)
+Christopher Romano and Vaishnav Murthy at Crowdstrike|[Cloudy with a Chance of Unclear Mailbox Sync: CrowdStrike Services Identifies Logging Inconsistencies in Microsoft 365](https://www.crowdstrike.com/blog/crowdstrike-services-identifies-logging-inconsistencies-in-microsoft-365/)
+Megan Roddie at SANS|[Enterprise Cloud Forensics & Incident Response Poster](https://www.sans.org/posters/enterprise-cloud-forensics-incident-response-poster/)
+Thirumalai Natarajan Muthiah & Anurag Khanna (SANS DFIR Summit 2022)|[Threat Hunting in Microsoft 365 Environment](https://www.youtube.com/watch?v=2A0faMIEp00)
+Josh Lemon & Megan Roddie (SANS DFIR Summit 2022)|[DFIR Evidence Collection and Preservation for the Cloud](https://www.youtube.com/watch?v=1TyjsnqgC5o)
+Microsoft|[Verify first-party Microsoft applications in sign-in reports](https://learn.microsoft.com/en-us/troubleshoot/azure/active-directory/verify-first-party-apps-sign-in)
+
 
 ### Datasets
 
