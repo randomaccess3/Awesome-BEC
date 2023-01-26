@@ -159,3 +159,4 @@ CISA|[ScubaGear M365 Secure Configuration Baseline Assessment Tool](https://gith
 |Author/s|Link|
 |-|-|
 |David Cowen, Pierre Lidome, Josh Lemon and Megan Roddie at SANS|[FOR509: Enterprise Cloud Forensics and Incident Response](https://www.sans.org/cyber-security-courses/enterprise-cloud-forensics-incident-response/)
+Lina Lau|[Attacking and Defending Azure & M365](https://training.xintra.org/attacking-and-defending-azure-m365)
