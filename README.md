@@ -28,6 +28,8 @@ Lina Lau|[How to Detect Azure Active Directory Backdoors: Identity Federation](h
 Doug Bienstock at Mandiant|[PwnAuth](https://github.com/mandiant/PwnAuth)
 Steve Borosh at Black Hills Information Secucirty|[Spoofing Microsoft 365 Like It’s 1995](https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/)
 Avertium|[MITM Attacks - Evilproxy and Evilginx](https://www.avertium.com/resources/threat-reports/mitm-attacks-evilproxy-and-evilginx)
+Aon Cyber Labs|[Bypassing MFA: A Forensic Look At Evilginx2 Phishing Kit](https://www.aon.com/cyber-solutions/aon_cyber_labs/bypassing-mfa-a-forensic-look-at-evilginx2-phishing-kit/)
+
 
 ### Investigation Research
 
@@ -67,7 +69,15 @@ CrowdStrike|[Early Bird Catches the Wormhole: Observations from the StellarParti
 Aon|[SCL -1: The Dangerous Side Of Safe Senders](https://www.aon.com/cyber-solutions/aon_cyber_labs/scl-1-the-dangerous-side-of-safe-senders/)
 Jon Hencinski|[Seven ways to spot a business email compromise in Office 365](https://expel.com/blog/seven-ways-to-spot-business-email-compromise-office-365/)
 Emily Parrish at Microsoft|[Good UAL Hunting](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/good-ual-hunting/ba-p/3718421)
+Invictus Incident Respone|[Mastering Email Forwarding Rules in Microsoft 365](https://invictus-ir.medium.com/email-forwarding-rules-in-microsoft-365-295fcb63d4fb)
+Microsoft Threat Intelligence|[DEV-1101 enables high-volume AiTM campaigns with open-source phishing kit](https://www.microsoft.com/en-us/security/blog/2023/03/13/dev-1101-enables-high-volume-aitm-campaigns-with-open-source-phishing-kit/)
 
+### Secure configuration guidance
+
+|Author|Link|
+|-|-|
+|NCSC Ireland|[Office 365 Secure Configuration Framework](https://www.ncsc.gov.ie/pdfs/NCSC_Office_365_Secure_Configuration_Framework.pdf)
+|CISA|[Microsoft Office 365 Security Recommendations](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-120a)
 
 ### Datasets
 
@@ -103,9 +113,10 @@ Emily Parrish at Microsoft|[Good UAL Hunting](https://techcommunity.microsoft.co
 
 ### Adversary Emulation Tools
 
-|Description|Author | Link |
-|-|-|-|
-|| MDSec | [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)
+| Author | Link |
+|-|-|
+| MDSec | [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)
+| Daniel Chronlund| [Microsoft 365 Data Exfiltration – Attack and Defend](https://danielchronlund.com/2023/02/09/microsoft-365-data-exfiltration-attack-and-defend/)
 
 ### Phishing Toolkits
 
@@ -148,12 +159,14 @@ Piotr Duszynski|[Modiishka](https://github.com/drk1wi/Modlishka)
 |This suite of scripts contains two different scripts that can be used to acquire the Microsoft 365 Unified Audit Log|Invictus IR|[Microsoft 365 Extractor Suite](https://github.com/invictus-ir/Microsoft-365-Extractor-Suite)
 |ROADtools is a framework to interact with Azure AD|Dirk-jan|[ROADtools](https://github.com/dirkjanm/ROADtools)
 |Automated Audit Log Forensic Analysis for Google Workspace|Invictus IR|[ALFA](https://github.com/invictus-ir/ALFA)
+|Tool aids hunting and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments|CISA|[Untitled Goose](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)
 
 ### Assessment Tools
 
 |Author|Link|
 |-|-|
 CISA|[ScubaGear M365 Secure Configuration Baseline Assessment Tool](https://github.com/cisagov/ScubaGear)
+Gerenios|[AADInternals](https://github.com/Gerenios/AADInternals)
 
 ## Training
 
