@@ -156,10 +156,10 @@ Piotr Duszynski|[Modiishka](https://github.com/drk1wi/Modlishka)
 |Identifying phishing page toolkits|Brian Kondracki, Babak Amin Azad, Oleksii Starov, and Nick Nikiforakis|[Phoca](https://github.com/catching-transparent-phish/phoca)
 |An Open Source PowerShell O365 Business Email Compromise Investigation Tool|intrepidtechie|[KITT-O365-Tool](https://github.com/intrepidtechie/KITT-O365-Tool)
 |Tooling for assessing an Azure AD tenant state and configuration|Microsoft|[Microsoft Azure AD Assessment](https://github.com/AzureAD/AzureADAssessment)
-|This suite of scripts contains two different scripts that can be used to acquire the Microsoft 365 Unified Audit Log|Invictus IR|[Microsoft 365 Extractor Suite](https://github.com/invictus-ir/Microsoft-365-Extractor-Suite)
 |ROADtools is a framework to interact with Azure AD|Dirk-jan|[ROADtools](https://github.com/dirkjanm/ROADtools)
 |Automated Audit Log Forensic Analysis for Google Workspace|Invictus IR|[ALFA](https://github.com/invictus-ir/ALFA)
 |Tool aids hunting and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments|CISA|[Untitled Goose](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)
+|PowerShell module to collect logs and rules from M365|Invictus IR|[Welcome 👋 Microsoft Extractor Suite](https://invictus-ir.medium.com/welcome-microsoft-extractor-suite-e54a292e2c36)
 
 ### Assessment Tools
 
