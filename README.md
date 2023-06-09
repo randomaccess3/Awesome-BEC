@@ -30,7 +30,6 @@ Steve Borosh at Black Hills Information Secucirty|[Spoofing Microsoft 365 Like I
 Avertium|[MITM Attacks - Evilproxy and Evilginx](https://www.avertium.com/resources/threat-reports/mitm-attacks-evilproxy-and-evilginx)
 Aon Cyber Labs|[Bypassing MFA: A Forensic Look At Evilginx2 Phishing Kit](https://www.aon.com/cyber-solutions/aon_cyber_labs/bypassing-mfa-a-forensic-look-at-evilginx2-phishing-kit/)
 
-
 ### Investigation Research
 
 Author | Link|
@@ -71,6 +70,7 @@ Jon Hencinski|[Seven ways to spot a business email compromise in Office 365](htt
 Emily Parrish at Microsoft|[Good UAL Hunting](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/good-ual-hunting/ba-p/3718421)
 Invictus Incident Respone|[Mastering Email Forwarding Rules in Microsoft 365](https://invictus-ir.medium.com/email-forwarding-rules-in-microsoft-365-295fcb63d4fb)
 Microsoft Threat Intelligence|[DEV-1101 enables high-volume AiTM campaigns with open-source phishing kit](https://www.microsoft.com/en-us/security/blog/2023/03/13/dev-1101-enables-high-volume-aitm-campaigns-with-open-source-phishing-kit/)
+Red Canary|[Investigating legacy authentication: The curious case of "BAV2ROPC"](https://redcanary.com/blog/bav2ropc/)
 
 ### Secure configuration guidance
 
