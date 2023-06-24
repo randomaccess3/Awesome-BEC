@@ -84,6 +84,7 @@ Red Canary|[Investigating legacy authentication: The curious case of "BAV2ROPC"]
 |Description| Author | Link |
 |-|-|-|
 |A dataset containing Office 365 Unified Audit Logs for security research and detection. | Invictus IR | [O365 Dataset](https://github.com/invictus-ir/o365_dataset)|
+|Simulated activity within the Microsoft 365 platform exported using Microsoft Extractor Suite|blueteam0ps|[det-eng-samples](https://github.com/blueteam0ps/det-eng-samples)|
 
 ## **Google Workspace**
 
