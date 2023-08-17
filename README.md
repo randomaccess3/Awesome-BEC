@@ -29,6 +29,8 @@ Doug Bienstock at Mandiant|[PwnAuth](https://github.com/mandiant/PwnAuth)
 Steve Borosh at Black Hills Information Secucirty|[Spoofing Microsoft 365 Like It’s 1995](https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/)
 Avertium|[MITM Attacks - Evilproxy and Evilginx](https://www.avertium.com/resources/threat-reports/mitm-attacks-evilproxy-and-evilginx)
 Aon Cyber Labs|[Bypassing MFA: A Forensic Look At Evilginx2 Phishing Kit](https://www.aon.com/cyber-solutions/aon_cyber_labs/bypassing-mfa-a-forensic-look-at-evilginx2-phishing-kit/)
+Sofia Marin|[Incident Response Series: Chapter #1 Phishing and cookie stolen with Evilginx.](https://www.youtube.com/watch?v=D4trW5YM9PM)
+Sofia Marin|[Incident Response Series: Chapter #3 The Impact and Subscription Theft as Exfiltration](https://www.youtube.com/watch?v=EZZZbPWAOEE)
 
 ### Investigation Research
 
@@ -71,6 +73,9 @@ Emily Parrish at Microsoft|[Good UAL Hunting](https://techcommunity.microsoft.co
 Invictus Incident Respone|[Mastering Email Forwarding Rules in Microsoft 365](https://invictus-ir.medium.com/email-forwarding-rules-in-microsoft-365-295fcb63d4fb)
 Microsoft Threat Intelligence|[DEV-1101 enables high-volume AiTM campaigns with open-source phishing kit](https://www.microsoft.com/en-us/security/blog/2023/03/13/dev-1101-enables-high-volume-aitm-campaigns-with-open-source-phishing-kit/)
 Red Canary|[Investigating legacy authentication: The curious case of "BAV2ROPC"](https://redcanary.com/blog/bav2ropc/)
+Dray Agha at Huntress|[Threat Hunting for Business Email Compromise Through User Agents](https://www.huntress.com/blog/threat-hunting-for-business-email-compromise-through-user-agents)
+Fabian Bader|[EntraID-ErrorCodes](https://github.com/f-bader/EntraID-ErrorCodes)
+Patterson Cake at Black Hills Information Security|[Wrangling the M365 UAL with PowerShell and SOF-ELK (Part 1 of 3)](https://www.blackhillsinfosec.com/wrangling-the-m365-ual-with-powershell-and-sof-elk-part-1-of-3/)
 
 ### Secure configuration guidance
 
