@@ -76,6 +76,11 @@ Red Canary|[Investigating legacy authentication: The curious case of "BAV2ROPC"]
 Dray Agha at Huntress|[Threat Hunting for Business Email Compromise Through User Agents](https://www.huntress.com/blog/threat-hunting-for-business-email-compromise-through-user-agents)
 Fabian Bader|[EntraID-ErrorCodes](https://github.com/f-bader/EntraID-ErrorCodes)
 Patterson Cake at Black Hills Information Security|[Wrangling the M365 UAL with PowerShell and SOF-ELK (Part 1 of 3)](https://www.blackhillsinfosec.com/wrangling-the-m365-ual-with-powershell-and-sof-elk-part-1-of-3/)
+Patterson Cake at Black Hills Information Security|[Wrangling the M365 UAL with PowerShell and SOF-ELK (Part 2 of 3)](https://www.blackhillsinfosec.com/wrangling-the-m365-ual-with-sof-elk-on-ec2-part-2-of-3/)
+Microsoft|[New Microsoft Incident Response guides help security teams analyze suspicious activity](https://www.microsoft.com/en-us/security/blog/2024/01/17/new-microsoft-incident-response-guides-help-security-teams-analyze-suspicious-activity/)
+Mauricio Velazco at Splunk|[Hunting M365 Invaders: Blue Team's Guide to Initial Access Vectors](https://www.splunk.com/en_us/blog/security/hunting-m365-invaders-blue-team-s-guide-to-initial-access-vectors.html)
+Huntress|[Time Travelers Busted: How to Detect Impossible Travel](https://www.huntress.com/blog/time-travelers-busted-how-to-detect-impossible-travel-)
+
 
 ### Secure configuration guidance
 
