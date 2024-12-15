@@ -128,6 +128,7 @@ Huntress|[Time Travelers Busted: How to Detect Impossible Travel](https://www.hu
 |-|-|
 | MDSec | [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)
 | Daniel Chronlund| [Microsoft 365 Data Exfiltration – Attack and Defend](https://danielchronlund.com/2023/02/09/microsoft-365-data-exfiltration-attack-and-defend/)
+| Mauricio Velazco |[msInvader](https://github.com/mvelazc0/msInvader)
 
 ### Phishing Toolkits
 
