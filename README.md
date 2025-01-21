@@ -171,7 +171,7 @@ Piotr Duszynski|[Modiishka](https://github.com/drk1wi/Modlishka)
 |ROADtools is a framework to interact with Azure AD|Dirk-jan|[ROADtools](https://github.com/dirkjanm/ROADtools)
 |Automated Audit Log Forensic Analysis for Google Workspace|Invictus IR|[ALFA](https://github.com/invictus-ir/ALFA)
 |Tool aids hunting and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments|CISA|[Untitled Goose](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)
-|PowerShell module to collect logs and rules from M365|Invictus IR|[Welcome 👋 Microsoft Extractor Suite](https://invictus-ir.medium.com/welcome-microsoft-extractor-suite-e54a292e2c36)
+|PowerShell module to collect logs and rules from M365|Invictus IR|[Microsoft Extractor Suite](https://microsoft-365-extractor-suite.readthedocs.io/en/latest/index.html)
 |A fork of the Hawk PowerShell module which adds additional data-gathing features and removes deprecated modules and commands.|Syne0|[Osprey](https://github.com/syne0/osprey)
 
 ### Assessment Tools
