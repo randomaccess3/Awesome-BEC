@@ -81,13 +81,13 @@ Microsoft|[New Microsoft Incident Response guides help security teams analyze su
 Mauricio Velazco at Splunk|[Hunting M365 Invaders: Blue Team's Guide to Initial Access Vectors](https://www.splunk.com/en_us/blog/security/hunting-m365-invaders-blue-team-s-guide-to-initial-access-vectors.html)
 Huntress|[Time Travelers Busted: How to Detect Impossible Travel](https://www.huntress.com/blog/time-travelers-busted-how-to-detect-impossible-travel-)
 
-
 ### Secure configuration guidance
 
 |Author|Link|
 |-|-|
-|NCSC Ireland|[Office 365 Secure Configuration Framework](https://www.ncsc.gov.ie/pdfs/NCSC_Office_365_Secure_Configuration_Framework.pdf)
-|CISA|[Microsoft Office 365 Security Recommendations](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-120a)
+NCSC Ireland|[Office 365 Secure Configuration Framework](https://www.ncsc.gov.ie/pdfs/NCSC_Office_365_Secure_Configuration_Framework.pdf)
+CISA|[Microsoft Office 365 Security Recommendations](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-120a)
+CISA|[Microsoft Expanded Cloud Logs Implementation Playbook](https://www.cisa.gov/sites/default/files/2025-01/microsoft-expanded-cloud-logs-implementation-playbook-508c.pdf)
 
 ### Datasets
 
