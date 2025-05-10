@@ -81,6 +81,7 @@ Patterson Cake at Black Hills Information Security|[Wrangling the M365 UAL with 
 Microsoft|[New Microsoft Incident Response guides help security teams analyze suspicious activity](https://www.microsoft.com/en-us/security/blog/2024/01/17/new-microsoft-incident-response-guides-help-security-teams-analyze-suspicious-activity/)
 Mauricio Velazco at Splunk|[Hunting M365 Invaders: Blue Team's Guide to Initial Access Vectors](https://www.splunk.com/en_us/blog/security/hunting-m365-invaders-blue-team-s-guide-to-initial-access-vectors.html)
 Huntress|[Time Travelers Busted: How to Detect Impossible Travel](https://www.huntress.com/blog/time-travelers-busted-how-to-detect-impossible-travel-)
+Invictus IR|[Deep Dive: Forensic Analysis of eM Client](https://www.invictus-ir.com/news/forensic-analysis-of-em-client)
 
 ### Secure configuration guidance
 
