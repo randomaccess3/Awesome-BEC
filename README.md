@@ -31,6 +31,7 @@ Avertium|[MITM Attacks - Evilproxy and Evilginx](https://www.avertium.com/resour
 Aon Cyber Labs|[Bypassing MFA: A Forensic Look At Evilginx2 Phishing Kit](https://www.aon.com/cyber-solutions/aon_cyber_labs/bypassing-mfa-a-forensic-look-at-evilginx2-phishing-kit/)
 Sofia Marin|[Incident Response Series: Chapter #1 Phishing and cookie stolen with Evilginx.](https://www.youtube.com/watch?v=D4trW5YM9PM)
 Sofia Marin|[Incident Response Series: Chapter #3 The Impact and Subscription Theft as Exfiltration](https://www.youtube.com/watch?v=EZZZbPWAOEE)
+Anish Bogati|[Tricked by trust: How OAuth and device code flows get abused](https://www.logpoint.com/en/blog/emerging-threats/how-oauth-and-device-code-flows-get-abused/)
 
 ### Investigation Research
 
