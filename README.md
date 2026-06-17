@@ -10,6 +10,8 @@ Repository of attack and defensive information for Business Email Compromise inv
 * [Microsoft 365 Licensing](https://m365maps.com/)
 * [Microsoft Portals](https://msportals.io/)
 * [Azure App IDs](https://github.com/Beercow/Azure-App-IDs)
+* [Microsoft First Party App IDs & Graph Permissions](https://github.com/merill/microsoft-info)
+* [Well-known Microsoft Client IDs](https://rakhesh.com/azure/well-known-client-ids/)
 
 ### Attack/Defend Research
 
@@ -82,6 +84,9 @@ Microsoft|[New Microsoft Incident Response guides help security teams analyze su
 Mauricio Velazco at Splunk|[Hunting M365 Invaders: Blue Team's Guide to Initial Access Vectors](https://www.splunk.com/en_us/blog/security/hunting-m365-invaders-blue-team-s-guide-to-initial-access-vectors.html)
 Huntress|[Time Travelers Busted: How to Detect Impossible Travel](https://www.huntress.com/blog/time-travelers-busted-how-to-detect-impossible-travel-)
 Invictus IR|[Deep Dive: Forensic Analysis of eM Client](https://www.invictus-ir.com/news/forensic-analysis-of-em-client)
+cyberdom|[Microsoft 365 Cloud Investigation via Unified Audit Log: Insights and Tips](https://cyberdom.blog/2024/04/26/microsoft-365-cloud-investigation-via-unified-audit-log-insights-and-tips/)
+Kroll|[Enterprise Applications in M365 to Exfiltrate Data](https://www.kroll.com/en/insights/publications/cyber/enterprise-applications-in-m365-to-exfiltrate-data)
+securityaura|[Microsoft Unified Audit Log (UAL) - What You Come to Learn the Hard Way](https://medium.com/@securityaura/microsoft-unified-audit-log-ual-what-you-come-to-learn-the-hard-way-905a087a1558)
 
 ### Secure configuration guidance
 
@@ -131,6 +136,7 @@ CISA|[Microsoft Expanded Cloud Logs Implementation Playbook](https://www.cisa.go
 | MDSec | [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit)
 | Daniel Chronlund| [Microsoft 365 Data Exfiltration – Attack and Defend](https://danielchronlund.com/2023/02/09/microsoft-365-data-exfiltration-attack-and-defend/)
 | Mauricio Velazco |[msInvader](https://github.com/mvelazc0/msInvader)
+| RedByte1337 | [GraphSpy](https://github.com/RedByte1337/GraphSpy) |
 
 ### Phishing Toolkits
 
@@ -175,6 +181,10 @@ Piotr Duszynski|[Modiishka](https://github.com/drk1wi/Modlishka)
 |Tool aids hunting and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments|CISA|[Untitled Goose](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)
 |PowerShell module to collect logs and rules from M365|Invictus IR|[Microsoft Extractor Suite](https://microsoft-365-extractor-suite.readthedocs.io/en/latest/index.html)
 |A fork of the Hawk PowerShell module which adds additional data-gathing features and removes deprecated modules and commands.|Syne0|[Osprey](https://github.com/syne0/osprey)
+|A collection of PowerShell scripts for analyzing data from Microsoft 365 and Microsoft Entra ID|LETHAL-FORENSICS|[Microsoft-Analyzer-Suite](https://github.com/LETHAL-FORENSICS/Microsoft-Analyzer-Suite)
+|A repository to help decipher the Microsoft 365 Unified Audit Log from a DFIR perspective|PuravsPoint|[DecipheringUAL](https://github.com/PuravsPoint/DecipheringUAL)
+|Analyze OAuth app posture, permissions, and behavior to detect potentially harmful apps|AppTotal|[AppTotal](https://apptotal.io/)|
+|Detection rules for identifying malicious OAuth applications in M365|randomaccess3|[Malicious OAuth App Detections](https://github.com/randomaccess3/detections/blob/main/M365_Oauth_Apps%2FMaliciousOauthAppDetections.json)|
 
 ### Assessment Tools
 
@@ -183,6 +193,21 @@ Piotr Duszynski|[Modiishka](https://github.com/drk1wi/Modlishka)
 CISA|[ScubaGear M365 Secure Configuration Baseline Assessment Tool](https://github.com/cisagov/ScubaGear)
 CISA|[ScubaGoggles GWS Secure Configuration Baseline Assessment Tool](https://github.com/cisagov/ScubaGoggles)
 Gerenios|[AADInternals](https://github.com/Gerenios/AADInternals)
+lieben.nu|[M365Permissions](https://www.lieben.nu/liebensraum/2024/12/m365permissions-v1-0-8/)|
+
+## Email Analysis
+
+### Research
+
+|Author|Link|
+|-|-|
+LetsDefend|[Phishing Email Analysis Resources](https://github.com/LetsDefend/Phishing-Email-Analysis)|
+
+### Tools
+
+|Description|Author|Link|
+|-|-|-|
+|URL scanner and threat intelligence for malicious URLs|URLScan|[urlscan.io](https://urlscan.io/)|
 
 ## Training
 
