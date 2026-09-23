@@ -208,6 +208,7 @@ LetsDefend|[Phishing Email Analysis Resources](https://github.com/LetsDefend/Phi
 |Description|Author|Link|
 |-|-|-|
 |URL scanner and threat intelligence for malicious URLs|URLScan|[urlscan.io](https://urlscan.io/)|
+|Browser-only email header analyzer: Received chain with per-hop timing, SPF/DKIM/DMARC and alignment, ARC; the header is never uploaded|Rafael Pfister|[Email Header Analyzer](https://rafaelpfister.ch/en/tools/header-analyzer)|
 
 ## Training
 
