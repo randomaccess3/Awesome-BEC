@@ -95,6 +95,7 @@ securityaura|[Microsoft Unified Audit Log (UAL) - What You Come to Learn the Har
 NCSC Ireland|[Office 365 Secure Configuration Framework](https://www.ncsc.gov.ie/pdfs/NCSC_Office_365_Secure_Configuration_Framework.pdf)
 CISA|[Microsoft Office 365 Security Recommendations](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-120a)
 CISA|[Microsoft Expanded Cloud Logs Implementation Playbook](https://www.cisa.gov/sites/default/files/2025-01/microsoft-expanded-cloud-logs-implementation-playbook-508c.pdf)
+Runbook Lab|[M365 Hardening Kit: Emergency Top 10 (free)](https://github.com/runbooklabhq/m365-hardening-kit-free)
 
 ### Datasets
 
