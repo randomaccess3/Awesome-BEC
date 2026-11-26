@@ -208,6 +208,7 @@ LetsDefend|[Phishing Email Analysis Resources](https://github.com/LetsDefend/Phi
 |Description|Author|Link|
 |-|-|-|
 |URL scanner and threat intelligence for malicious URLs|URLScan|[urlscan.io](https://urlscan.io/)|
+|Free passive SPF (10-lookup flattener), 24-selector DKIM, DMARC, MTA-STS, DANE, BIMI & 5-DNSBL email authentication auditor|OmniForge|[inbox.shipbastion.com](https://inbox.shipbastion.com/)|
 
 ## Training
 
